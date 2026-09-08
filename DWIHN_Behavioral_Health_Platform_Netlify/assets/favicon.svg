@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DWIHN dashboard">
+  <defs>
+    <linearGradient id="g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35cad9"/>
+      <stop offset="1" stop-color="#0b8e87"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="17" fill="#061827"/>
+  <rect x="7" y="7" width="50" height="50" rx="14" fill="url(#g)"/>
+  <path d="M17 33h8l3-9 6 19 4-10h9" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
